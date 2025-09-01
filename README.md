@@ -22,7 +22,7 @@ A collection of React examples and tutorials covering various concepts and featu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-tutorial-app-js.git
+   git clone https://github.com/IvanGit91/react-js-tutorial-app.git
    cd my-tutorial-app-js
    ```
 
